@@ -20,6 +20,8 @@ Pod::Spec.new do |spec|
   spec.summary      = "version 0.0.1 of XXHTest."
   spec.license      = 'MIT'
   
+  spec.homepage     = "https://github.com/stepanoval/XXHTest"
+  
   spec.source       = { :git => "https://github.com/stepanoval/XXHTest.git", :tag => s.version.to_s }
                    
 
