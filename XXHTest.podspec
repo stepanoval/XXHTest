@@ -18,6 +18,10 @@ Pod::Spec.new do |spec|
   spec.name         = "XXHTest"
   spec.version      = "0.0.1"
   spec.summary      = "version 0.0.1 of XXHTest."
+  spec.description      = <<-DESC
+TODO: Add long description of the pod here.
+                       DESC
+                       
   spec.license      = 'MIT'
   
   spec.homepage     = "https://github.com/stepanoval/XXHTest"
