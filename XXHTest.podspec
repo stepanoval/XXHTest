@@ -27,6 +27,6 @@ Pod::Spec.new do |spec|
   spec.platform     = :ios
  
   spec.source_files  = "XXHToolLib"
-  s.requires_arc = true
+  spec.requires_arc = true
 
 end
