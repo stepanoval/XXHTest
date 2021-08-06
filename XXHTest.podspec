@@ -7,6 +7,6 @@ Pod::Spec.new do |s|
   s.source       = { :git => "https://github.com/stepanoval/XXHTest.git", :tag => "#{s.version}" }
   s.author       = { "stepanoval" => "huangxinxin01@corp.netease.com" }
   s.platform     = :ios
-  s.source_files  = "XXHToolLib"
+  s.source_files  = 'XXHToolLib'
   s.requires_arc = true
 end
